@@ -63,8 +63,9 @@ Keep Floor and Inner Catwalk Support: *Stone Floor Textures* - **New Material**
 
 **Carrington Jones** (carrington-jones)
 
+Follow camera set up using the existing Main Camera in the scene. Main camera placed under Robot_Player in the project hierarchy. The follow effect was created using Unity's parent-child relationship.
 
-
+Version control implemented by using Github. The Github Unity project template was used with extensive .gitignore file to avoid uploading Unity-generated folders and files.
 
 
 \----------------------------------------------------------------------------------------------
