@@ -115,3 +115,19 @@ Terrain Asset Pack | Terrain Sample
 Free Fantasy Terrain Textures
 
 Wooden row boat - Game Asset
+
+
+
+
+
+Installation instructions for editor:
+1. Download and unzip the folder
+2. Open up Unity Hub and ensure version 2021.3.5f1 is installed
+3. In the top right hand corner click on the Add drop down and select "Add project from disk"
+4. Navigate to the unzipped downloaded folder
+5. Double click on the project and it will open
+6. In the folder hierarchy at the bottom left of the screen, you will see an Assets folder
+7. In the Assets folder is another folder labelled Scenes
+8. Drag and drop Planet959 scene into the object hierarchy in the top left of the screen
+9. Remove the Default scene if it is present
+10. Click File in the top left hand corner and click on Build and Run
