@@ -1,8 +1,8 @@
-# GAME351-Unity
+# GAME351-Unity 
 
+Using Built-in Render Pipeline 
 
-
-### **Planet959**
+### **Planet959** 
 
 Implementations of Choice Components:
 1. Small Village
@@ -39,6 +39,8 @@ Added some **Wooden Box 01** next to a house and **Handcart** from *RPG Medieval
 Cleaned up some of the terrain using *Procedural Terrain Painter | FREE - Automatic Terrain Texturing* as well as added grass texture around the floors from *Terrain Asset Pack | Terrain Sample*
 
 Took the water asset with shader from *Procedural Water Shader* It acts as an object that you walk on and not something you can actually get into
+
+Wooden rowboat from *Wooden row boat - Game Asset*: **BoatWood** and placed it on the shoreline of the small pond
 
 \----------------------------------------------------------------------------------------------
 
@@ -112,3 +114,4 @@ Terrain Asset Pack | Terrain Sample
 
 Free Fantasy Terrain Textures
 
+Wooden row boat - Game Asset
