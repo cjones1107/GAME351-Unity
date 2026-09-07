@@ -4,15 +4,19 @@
 
 ### **Planet959**
 
+Implementations of Choice Components:
+1. Small Village
+2. Areas of Water
 
-
-##### **Authors**
+### **Authors**
 
 
 
 **Santana Madero (nyxnavi)**
 
+Created the rolling hills and divots, mountains and lake location using Paint Terrain
 
+Gave cliffs on mountains their own texture, grass land, and dirt using *Free Fantasy Terrain Textures*: **3DH FTT Dirt_001 2k, 3DH FTT Grass_002 Grass_oo1b 2k, 3DH Ftt Cliff_001 4l**
 
 
 
@@ -20,9 +24,21 @@
 
 **Nathan Holsinger (majorbigbear)**	
 
+Tree prefabs were from *European Forests - Realistic Trees*: **Weeping_Willow 3, Chestnut (3,8,5), Birch Group 2** And I duplicated, rotated and uniquely placed all tree groups to ensure accuracy to the ground
 
+The village building prefabs were from *Medieval Town Exteriors*: **Building_(b,c,d,f), Well, Fence** I duplicated the fence with accuracy to the ground**
 
+Added more realistic embrasures around the castle wall
 
+Added dirt terrain around walking paths to simulate travel
+
+Added the following tools to bring a little more life to the world from *Gardening Tools Pack - 26 PBR objects*: **Axe_001, Broom_001, Shovel_003**
+
+Added some **Wooden Box 01** next to a house and **Handcart** from *RPG Medieval Props Pack 01* next to the tool shed
+
+Cleaned up some of the terrain using *Procedural Terrain Painter | FREE - Automatic Terrain Texturing* as well as added grass texture around the floors from *Terrain Asset Pack | Terrain Sample*
+
+Took the water asset with shader from *Procedural Water Shader* It acts as an object that you walk on and not something you can actually get into
 
 \----------------------------------------------------------------------------------------------
 
@@ -30,7 +46,7 @@
 
 The castle was built using ProBuilder. Cubes were used to create wall segments. Cylinders were used to create logs for the wood catwalk around the castle walls.
 
-The outside catwalk is accessed using ramps create from logs.
+The outside catwalk is accessed using ramps created from logs.
 
 The castle entrance is a door object.  
 
@@ -87,4 +103,12 @@ Stone Floor Textures
 RPG Medieval Props Pack 01
 
 Hand Painted Seamless Wood Texture Vol - 6
+
+Gardening Tools Pack - 26 PBR objects
+
+Medieval Town Exteriors
+
+Terrain Asset Pack | Terrain Sample
+
+Free Fantasy Terrain Textures
 
